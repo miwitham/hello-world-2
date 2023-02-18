@@ -1,0 +1,6 @@
+secrets
+
+# MacOS Specific
+.DS_Store
+.DS__Store
+.DS___Store
